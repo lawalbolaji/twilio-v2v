@@ -1,0 +1,15 @@
+{
+    "cSpell.words": [
+        "fastapi",
+        "Groq",
+        "healthcheck",
+        "pydantic",
+        "pylint",
+        "twiml",
+        "uvicorn"
+    ],
+    "python.analysis.autoImportCompletions": true,
+    "flake8.args": [
+        "--max-line-length=120"
+    ]
+}
